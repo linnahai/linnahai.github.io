@@ -38,9 +38,10 @@ Currently, I'm looking for a Ph.D. position in biomedicine and AIDD.
 
 Meng Li, Zhou Shuang, LiangDan Liu et al., **Linna Hai** et al., Zhaohui Wang
 
-* We developed manganese-enriched zinc peroxide nanoparticles (MONPs) that disassemble in the acidic tumor microenvironment (TME) to generate hydroxyl radicals (•OH), which induce immunogenic cell death (ICD) in cancer cells. This process helps activate an immune response against the tumor.
-* Our MONPs also activate the stimulator of the interferon gene (STING) pathway, leading to the secretion of type I interferons and inflammatory cytokines. This, in turn, stimulates T cell responses, further enhancing the body's anti-tumor immunity.
-* We found that MONPs alleviate the immunosuppressive effects of the TME by reducing regulatory T cells (Tregs) and reprogramming M2 macrophages into the M1 phenotype. This boosts a stronger adaptive immune response, especially when combined with anti-PD-1 antibody therapy, leading to better tumor growth inhibition and prevention of metastasis.
+* We developed manganese-enriched zinc peroxide nanoparticles (MONPs) that disassemble in the acidic TME to generate hydroxyl radicals (•OH), inducing immunogenic cell death (ICD) and activating anti-tumor immunity.
+* Our MONPs also activate the STING pathway, triggering type I interferon secretion and boosting T cell responses.
+
+* MONPs reduce regulatory T cells (Tregs) and reprogram M2 macrophages to M1, enhancing adaptive immunity and improving tumor inhibition, especially when combined with anti-PD-1 therapy.
 </div>
 </div>
 
@@ -53,10 +54,9 @@ Meng Li, Zhou Shuang, LiangDan Liu et al., **Linna Hai** et al., Zhaohui Wang
 
 Dan Liu, Shuang Liang, Kongshuo Ma et al., **Linna Hai** et al., Zhaohui Wang
 
-* We developed manganese-enriched zinc peroxide nanoparticles (MONPs) that disassemble in the acidic TME to generate hydroxyl radicals (•OH), inducing immunogenic cell death (ICD) and activating anti-tumor immunity.
-* Our MONPs also activate the STING pathway, triggering type I interferon secretion and boosting T cell responses.
-
-* MONPs reduce regulatory T cells (Tregs) and reprogram M2 macrophages to M1, enhancing adaptive immunity and improving tumor inhibition, especially when combined with anti-PD-1 therapy.
+* We developed a bi-adjuvant nanovaccine (MnC NVs) that combines STING agonist (MnO2), TLR9 agonist (CpG), and antigenic peptides to enhance anti-tumor immunity.
+* The nanovaccine effectively activated dendritic cells, triggered type-I interferon signaling, and induced strong CD8+ T cell responses, leading to significant tumor inhibition and improved survival.
+* MnC NVs demonstrated synergy with immune checkpoint inhibitors and induced long-term memory, showing potential for personalized cancer immunotherapy.
 
 </div>
 </div>
