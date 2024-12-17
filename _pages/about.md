@@ -24,8 +24,10 @@ Currently, I'm looking for a Ph.D. position in biomedicine and AIDD.
 
 # 🔥 News
 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+- *2024.11*: &nbsp;🎉🎉 I recieved Peking Union Medical College Scholarship!
+- *2024.08*: &nbsp;🎉🎉 our paper is accepted by Advanced science!
+
+<!-- - *2022.02*:  🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Publications
 
@@ -36,9 +38,14 @@ Currently, I'm looking for a Ph.D. position in biomedicine and AIDD.
 
 Meng Li, Zhou Shuang, LiangDan Liu et al., **Linna Hai** et al., Zhaohui Wang
 
+* Bi-Adjuvant Nanovaccine: The researchers created a nanovaccine combining a STING agonist (MnO₂ nanoparticles), CpG (TLR9 agonist), and tumor antigens to enhance immune activation and tumor targeting.
+* Enhanced Immune Response: The nanovaccine effectively activated the STING signaling pathway, increased type-I interferon responses, and promoted CD8+ T cell activation and humoral immunity, leading to strong tumor growth inhibition and prolonged survival in melanoma and HPV-derived tumor models.
+
+* Synergy with Immune Checkpoint Inhibition: The nanovaccine synergized with immune checkpoint blockade therapy, showing 80% survival in the TC-1 tumor model, and induced long-term immune memory, preventing tumor growth upon rechallenge.
 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Today 2024</div><img src='images/A bi-adjuvant.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,9 +54,9 @@ Meng Li, Zhou Shuang, LiangDan Liu et al., **Linna Hai** et al., Zhaohui Wang
 
 Dan Liu, Shuang Liang, Kongshuo Ma et al., **Linna Hai** et al., Zhaohui Wang
 
+</div>
+</div>
 
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Science 2024</div><img src='images/multi-metallic.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -60,6 +67,8 @@ Yuxuan Peng, Shuang Liang, Dan Liu et al., **Linna Hai** et al., Zhaohui Wang
 
 </div>
 </div>
+
+
 # 🎖 Honors and Awards
 
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
