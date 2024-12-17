@@ -53,9 +53,10 @@ Meng Li, Zhou Shuang, LiangDan Liu et al., **Linna Hai** et al., Zhaohui Wang
 
 Dan Liu, Shuang Liang, Kongshuo Ma et al., **Linna Hai** et al., Zhaohui Wang
 
-* We developed manganese-enriched zinc peroxide nanoparticles (MONPs) that disassemble in the acidic TME to generate hydroxyl radicals (•OH), which trigger immunogenic cell death (ICD) in cancer cells. This process helps activate the immune system to target the tumor.
-* Our MONPs also activate the stimulator of the interferon gene (STING) pathway, leading to the secretion of type I interferons and inflammatory cytokines. This in turn stimulates T cell responses, further boosting anti-tumor immunity.
-* By reducing regulatory T cells (Tregs) and reprogramming M2 macrophages to the M1 phenotype, MONPs help alleviate the immunosuppressive effects of the TME. This promotes a stronger adaptive immune response, especially when combined with anti-PD-1 antibody therapy, significantly improving tumor growth inhibition and preventing metastasis.
+* We developed manganese-enriched zinc peroxide nanoparticles (MONPs) that disassemble in the acidic TME to generate hydroxyl radicals (•OH), inducing immunogenic cell death (ICD) and activating anti-tumor immunity.
+* Our MONPs also activate the STING pathway, triggering type I interferon secretion and boosting T cell responses.
+
+* MONPs reduce regulatory T cells (Tregs) and reprogram M2 macrophages to M1, enhancing adaptive immunity and improving tumor inhibition, especially when combined with anti-PD-1 therapy.
 
 </div>
 </div>
@@ -69,11 +70,11 @@ Dan Liu, Shuang Liang, Kongshuo Ma et al., **Linna Hai** et al., Zhaohui Wang
 
 Yuxuan Peng, Shuang Liang, Dan Liu et al., **Linna Hai** et al., Zhaohui Wang
 
-* We synthesized Mn-LDH using a one-step hydrothermal method. In addition to its proton neutralization ability, the inclusion of manganese oxide grants Mn-LDH the capability to produce oxygen, which is crucial for modulating the TME.
+* Mn-LDH was synthesized via a one-step hydrothermal method, combining proton neutralization and oxygen production abilities.
 
-* Upon exposure to the TME, Mn-LDH releases Mn²⁺ and Mg²⁺ ions, which activate the stimulator of interferon genes (STING) pathway and enhance the cytotoxicity of CD8+ T cells. This cascade effect boosts both innate and adaptive immune responses.
+* Mn-LDH releases Mn²⁺ and Mg²⁺ in the TME, activating the STING pathway and boosting CD8+ T cell cytotoxicity.
 
-* Local administration of Mn-LDH created a "hot" immune network, including mature dendritic cells, M1 macrophages, and activated T cells, which significantly inhibited the growth of both primary and distal tumors. Furthermore, its photothermal conversion ability enhanced therapeutic outcomes in larger tumor models following a single treatment and irradiation.
+* Local administration of Mn-LDH created a pro-inflammatory immune network, significantly inhibiting both primary and distal tumors, with enhanced effects from its photothermal properties.
 </div>
 </div>
 
