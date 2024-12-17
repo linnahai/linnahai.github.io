@@ -20,7 +20,7 @@ Welcome! I'm currently a third-year Mphill student in Chinese Academy of Medical
 
 I obtained my Bachelor in Pharmacy from Jinan University. During my undergraduate studies, I was a research member of .
 
-Currently I'm looking for a Ph.D. position in biomedicine and AIDD.
+Currently, I'm looking for a Ph.D. position in biomedicine and AIDD.
 
 # 🔥 News
 
@@ -29,24 +29,37 @@ Currently I'm looking for a Ph.D. position in biomedicine and AIDD.
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Letters 2023</div><img src='images/Manganese-Enriched.jpeg' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Letters 2023</div><img src='images/Manganese-Enriched.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Manganese-Enriched Zinc Peroxide Functional Nanoparticles for Potentiating Cancer Immunotherapy](https://doi.org/10.1021/acs.nanolett.3c02941)
 
 Meng Li, Zhou Shuang, LiangDan Liu et al., **Linna Hai** et al., Zhaohui Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) `<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>``</strong>`
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Today 2024</div><img src='images/A bi-adjuvant.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A bi-adjuvant nanovaccine amplifying STING activation for cancer immunotherapy](https://doi.org/10.1016/j.nantod.2024.102372)
+
+Dan Liu, Shuang Liang, Kongshuo Ma et al., **Linna Hai** et al., Zhaohui Wang
 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Science 2024</div><img src='images/multi-metallic.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-Metallic Nanosheets Reshaping Immunosuppressive Tumor Microenvironment through Augmenting cGAS-STING Innate Activation and Adaptive Immune Responses for Cancer Immunotherapy](https://doi.org/10.1016/j.nantod.2024.102372)
+
+Yuxuan Peng, Shuang Liang, Dan Liu et al., **Linna Hai** et al., Zhaohui Wang
+
+</div>
+</div>
 # 🎖 Honors and Awards
 
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
@@ -54,8 +67,8 @@ Meng Li, Zhou Shuang, LiangDan Liu et al., **Linna Hai** et al., Zhaohui Wang
 
 # 📖 Educations
 
-- *2022.09 - now*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2018.09 - 2022.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2022.09 - now*, Jinan University, BS in Pharmacy.
+- *2018.09 - 2022.06*, Chinese Academy of Medical Sciences & Peking Union Medical College, MS in Pharmacy.
 
 <!-- # 💬 Invited Talks
 
