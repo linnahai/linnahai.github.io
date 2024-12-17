@@ -38,13 +38,13 @@ Currently, I'm looking for a Ph.D. position in biomedicine and AIDD.
 
 Meng Li, Zhou Shuang, LiangDan Liu et al., **Linna Hai** et al., Zhaohui Wang
 
-* Bi-Adjuvant Nanovaccine: The researchers created a nanovaccine combining a STING agonist (MnO₂ nanoparticles), CpG (TLR9 agonist), and tumor antigens to enhance immune activation and tumor targeting.
-* Enhanced Immune Response: The nanovaccine effectively activated the STING signaling pathway, increased type-I interferon responses, and promoted CD8+ T cell activation and humoral immunity, leading to strong tumor growth inhibition and prolonged survival in melanoma and HPV-derived tumor models.
-
-* Synergy with Immune Checkpoint Inhibition: The nanovaccine synergized with immune checkpoint blockade therapy, showing 80% survival in the TC-1 tumor model, and induced long-term immune memory, preventing tumor growth upon rechallenge.
+* The study presents manganese-enriched zinc peroxide nanoparticles (MONPs), which disassemble in the acidic TME to generate hydroxyl radicals (•OH), inducing immunogenic cell death (ICD) in cancer cells. This process helps trigger an immune response against the tumor.
+* MONPs also activate the stimulator of the interferon gene (STING) pathway, leading to the secretion of type I interferons and inflammatory cytokines. This activates T cell responses, further enhancing the body's anti-tumor immunity.
+* MONPs alleviate the immunosuppressive TME by reducing regulatory T cells (Tregs) and reprogramming M2 macrophages to the M1 phenotype. This promotes a more robust adaptive immune response, especially when combined with anti-PD-1 antibody therapy, improving tumor growth inhibition and preventing metastasis.
 
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Today 2024</div><img src='images/A bi-adjuvant.jpg' alt="sym" width="100%"></div></div>
@@ -54,8 +54,13 @@ Meng Li, Zhou Shuang, LiangDan Liu et al., **Linna Hai** et al., Zhaohui Wang
 
 Dan Liu, Shuang Liang, Kongshuo Ma et al., **Linna Hai** et al., Zhaohui Wang
 
+* The researchers created a nanovaccine combining a STING agonist (MnO₂ nanoparticles), CpG (TLR9 agonist), and tumor antigens to enhance immune activation and tumor targeting.
+* The nanovaccine effectively activated the STING signaling pathway, increased type-I interferon responses, and promoted CD8+ T cell activation and humoral immunity, leading to strong tumor growth inhibition and prolonged survival in melanoma and HPV-derived tumor models.
+* The nanovaccine synergized with immune checkpoint blockade therapy, showing 80% survival in the TC-1 tumor model, and induced long-term immune memory, preventing tumor growth upon rechallenge.
+
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Science 2024</div><img src='images/multi-metallic.jpg' alt="sym" width="100%"></div></div>
@@ -67,6 +72,7 @@ Yuxuan Peng, Shuang Liang, Dan Liu et al., **Linna Hai** et al., Zhaohui Wang
 
 </div>
 </div>
+
 
 
 # 🎖 Honors and Awards
