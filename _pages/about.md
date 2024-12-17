@@ -38,10 +38,9 @@ Currently, I'm looking for a Ph.D. position in biomedicine and AIDD.
 
 Meng Li, Zhou Shuang, LiangDan Liu et al., **Linna Hai** et al., Zhaohui Wang
 
-* The study presents manganese-enriched zinc peroxide nanoparticles (MONPs), which disassemble in the acidic TME to generate hydroxyl radicals (•OH), inducing immunogenic cell death (ICD) in cancer cells. This process helps trigger an immune response against the tumor.
-* MONPs also activate the stimulator of the interferon gene (STING) pathway, leading to the secretion of type I interferons and inflammatory cytokines. This activates T cell responses, further enhancing the body's anti-tumor immunity.
-* MONPs alleviate the immunosuppressive TME by reducing regulatory T cells (Tregs) and reprogramming M2 macrophages to the M1 phenotype. This promotes a more robust adaptive immune response, especially when combined with anti-PD-1 antibody therapy, improving tumor growth inhibition and preventing metastasis.
-
+* We developed manganese-enriched zinc peroxide nanoparticles (MONPs) that disassemble in the acidic tumor microenvironment (TME) to generate hydroxyl radicals (•OH), which induce immunogenic cell death (ICD) in cancer cells. This process helps activate an immune response against the tumor.
+* Our MONPs also activate the stimulator of the interferon gene (STING) pathway, leading to the secretion of type I interferons and inflammatory cytokines. This, in turn, stimulates T cell responses, further enhancing the body's anti-tumor immunity.
+* We found that MONPs alleviate the immunosuppressive effects of the TME by reducing regulatory T cells (Tregs) and reprogramming M2 macrophages into the M1 phenotype. This boosts a stronger adaptive immune response, especially when combined with anti-PD-1 antibody therapy, leading to better tumor growth inhibition and prevention of metastasis.
 </div>
 </div>
 
@@ -54,9 +53,9 @@ Meng Li, Zhou Shuang, LiangDan Liu et al., **Linna Hai** et al., Zhaohui Wang
 
 Dan Liu, Shuang Liang, Kongshuo Ma et al., **Linna Hai** et al., Zhaohui Wang
 
-* The researchers created a nanovaccine combining a STING agonist (MnO₂ nanoparticles), CpG (TLR9 agonist), and tumor antigens to enhance immune activation and tumor targeting.
-* The nanovaccine effectively activated the STING signaling pathway, increased type-I interferon responses, and promoted CD8+ T cell activation and humoral immunity, leading to strong tumor growth inhibition and prolonged survival in melanoma and HPV-derived tumor models.
-* The nanovaccine synergized with immune checkpoint blockade therapy, showing 80% survival in the TC-1 tumor model, and induced long-term immune memory, preventing tumor growth upon rechallenge.
+* We developed manganese-enriched zinc peroxide nanoparticles (MONPs) that disassemble in the acidic TME to generate hydroxyl radicals (•OH), which trigger immunogenic cell death (ICD) in cancer cells. This process helps activate the immune system to target the tumor.
+* Our MONPs also activate the stimulator of the interferon gene (STING) pathway, leading to the secretion of type I interferons and inflammatory cytokines. This in turn stimulates T cell responses, further boosting anti-tumor immunity.
+* By reducing regulatory T cells (Tregs) and reprogramming M2 macrophages to the M1 phenotype, MONPs help alleviate the immunosuppressive effects of the TME. This promotes a stronger adaptive immune response, especially when combined with anti-PD-1 antibody therapy, significantly improving tumor growth inhibition and preventing metastasis.
 
 </div>
 </div>
@@ -66,10 +65,15 @@ Dan Liu, Shuang Liang, Kongshuo Ma et al., **Linna Hai** et al., Zhaohui Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Science 2024</div><img src='images/multi-metallic.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multi-Metallic Nanosheets Reshaping Immunosuppressive Tumor Microenvironment through Augmenting cGAS-STING Innate Activation and Adaptive Immune Responses for Cancer Immunotherapy](https://doi.org/10.1016/j.nantod.2024.102372)
+[Multi-Metallic Nanosheets Reshaping Immunosuppressive Tumor Microenvironment through Augmenting cGAS-STING Innate Activation and Adaptive Immune Responses for Cancer Immunotherapy](https://onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202403347)
 
 Yuxuan Peng, Shuang Liang, Dan Liu et al., **Linna Hai** et al., Zhaohui Wang
 
+* We synthesized Mn-LDH using a one-step hydrothermal method. In addition to its proton neutralization ability, the inclusion of manganese oxide grants Mn-LDH the capability to produce oxygen, which is crucial for modulating the TME.
+
+* Upon exposure to the TME, Mn-LDH releases Mn²⁺ and Mg²⁺ ions, which activate the stimulator of interferon genes (STING) pathway and enhance the cytotoxicity of CD8+ T cells. This cascade effect boosts both innate and adaptive immune responses.
+
+* Local administration of Mn-LDH created a "hot" immune network, including mature dendritic cells, M1 macrophages, and activated T cells, which significantly inhibited the growth of both primary and distal tumors. Furthermore, its photothermal conversion ability enhanced therapeutic outcomes in larger tumor models following a single treatment and irradiation.
 </div>
 </div>
 
