@@ -40,8 +40,8 @@ Meng Li, Zhou Shuang, LiangDan Liu et al., **Linna Hai** et al., Zhaohui Wang
 
 * We developed manganese-enriched zinc peroxide nanoparticles (MONPs) that disassemble in the acidic TME to generate hydroxyl radicals (•OH), inducing immunogenic cell death (ICD) and activating anti-tumor immunity.
 * Our MONPs also activate the STING pathway, triggering type I interferon secretion and boosting T cell responses.
-
 * MONPs reduce regulatory T cells (Tregs) and reprogram M2 macrophages to M1, enhancing adaptive immunity and improving tumor inhibition, especially when combined with anti-PD-1 therapy.
+
 </div>
 </div>
 
@@ -71,10 +71,9 @@ Dan Liu, Shuang Liang, Kongshuo Ma et al., **Linna Hai** et al., Zhaohui Wang
 Yuxuan Peng, Shuang Liang, Dan Liu et al., **Linna Hai** et al., Zhaohui Wang
 
 * Mn-LDH was synthesized via a one-step hydrothermal method, combining proton neutralization and oxygen production abilities.
-
 * Mn-LDH releases Mn²⁺ and Mg²⁺ in the TME, activating the STING pathway and boosting CD8+ T cell cytotoxicity.
-
 * Local administration of Mn-LDH created a pro-inflammatory immune network, significantly inhibiting both primary and distal tumors, with enhanced effects from its photothermal properties.
+
 </div>
 </div>
 
@@ -87,8 +86,8 @@ Yuxuan Peng, Shuang Liang, Dan Liu et al., **Linna Hai** et al., Zhaohui Wang
 
 # 📖 Educations
 
-- *2022.09 - now*, Jinan University, BS in Pharmacy.
-- *2018.09 - 2022.06*, Chinese Academy of Medical Sciences & Peking Union Medical College, MS in Pharmacy.
+- *2022.09 - now*, Chinese Academy of Medical Sciences & Peking Union Medical College, MS in Pharmacy.
+- *2018.09 - 2022.06*, Jinan University, BS in Pharmacy.
 
 <!-- # 💬 Invited Talks
 
